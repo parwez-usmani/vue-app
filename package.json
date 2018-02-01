@@ -2,7 +2,7 @@
   "name": "demo-app",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "Parwez",
+  "author": "Parwez | AHA Technocrats",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
