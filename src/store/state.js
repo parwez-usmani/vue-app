@@ -1,3 +1,3 @@
 export const state = {
-  appTitle: 'My Awesome App'
+  appTitle: 'AHA Technocrats'
 }
